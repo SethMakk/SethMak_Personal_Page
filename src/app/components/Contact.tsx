@@ -94,7 +94,7 @@ export default function Contact() {
               Get in Touch
             </motion.h2>
             <p className="text-xl text-stone-600">
-              Ready to transform your business with automation? Let's talk about your project.
+              Ready to transform your business with automation? Let&apos;s talk about your project.
             </p>
           </div>
 
